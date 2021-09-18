@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/area-calculator/static/css/main.74585c00.chunk.css",
+    "main.js": "/area-calculator/static/js/main.7c83c989.chunk.js",
+    "main.js.map": "/area-calculator/static/js/main.7c83c989.chunk.js.map",
+    "runtime-main.js": "/area-calculator/static/js/runtime-main.9040962a.js",
+    "runtime-main.js.map": "/area-calculator/static/js/runtime-main.9040962a.js.map",
+    "static/js/2.cbc2e4ec.chunk.js": "/area-calculator/static/js/2.cbc2e4ec.chunk.js",
+    "static/js/2.cbc2e4ec.chunk.js.map": "/area-calculator/static/js/2.cbc2e4ec.chunk.js.map",
+    "static/js/3.12cb5c08.chunk.js": "/area-calculator/static/js/3.12cb5c08.chunk.js",
+    "static/js/3.12cb5c08.chunk.js.map": "/area-calculator/static/js/3.12cb5c08.chunk.js.map",
+    "index.html": "/area-calculator/index.html",
+    "static/css/main.74585c00.chunk.css.map": "/area-calculator/static/css/main.74585c00.chunk.css.map",
+    "static/js/2.cbc2e4ec.chunk.js.LICENSE.txt": "/area-calculator/static/js/2.cbc2e4ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9040962a.js",
+    "static/js/2.cbc2e4ec.chunk.js",
+    "static/css/main.74585c00.chunk.css",
+    "static/js/main.7c83c989.chunk.js"
+  ]
+}
